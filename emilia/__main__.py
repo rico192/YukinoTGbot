@@ -440,8 +440,8 @@ def donate(update, context):
         update.effective_message.reply_text(tl(update.effective_message, DONATE_STRING), parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True)
 
         if OWNER_ID != 388576209 and DONATION_LINK:
-            update.effective_message.reply_text(tl(update.effective_message, "Kek! "
-                                                "[disini]({})").format(DONATION_LINK),
+            update.effective_message.reply_text(tl(update.effective_message, "Kek! Sincerely "
+                                                "[Rico]({})").format(DONATION_LINK),
                                                 parse_mode=ParseMode.MARKDOWN)
 
     else:
