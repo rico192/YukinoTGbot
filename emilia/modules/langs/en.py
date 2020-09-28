@@ -33,7 +33,7 @@ Available commands are:
 # __main__
 	"Ada yang bisa saya bantu? 😊": "Is there anything I can help? 😊",
 	"start_text": """
-Hi {}, my name is {}! I am a group manager managed by [my master](tg://user?id={}).
+Hi {}, my name is {}! I am a group manager managed by [This Fuckin' Guy](tg://user?id={}).
 To get this bot status info and update, you can join our channel [Trollol Post](https://t.me/kangothersc)
 
 You can find the list of available commands with /help.
@@ -60,10 +60,10 @@ All commands can either be used with / or !.
 And the following:
 """,
 	"donate_text": """Hello, glad to hear you want to donate!
-There is two persons that you can donate, first is [Ayra Hikari](tg://user?id=388576209) \
-or The Fuckin' Guy that own me [Rico] (https://t.me/grecm)
+There is two persons that you can donate, first is [Ayra Hikari](https://t.me/AyraHikari) \
+or The Fuckin' Guy that own me [Rico](https://t.me/grecm)
 
-Click [here] (ayrahikari.github.io/donations.html) if you want donate Ayra Hikari. \
+Click [here](ayrahikari.github.io/donations.html) if you want donate [Ayra Hikari](https://t.me/AyraHikari). \
 Or PM me at @grecm if you want donate me.
 
 You can donate us as far as possible, and this is not an obligation 😁""",

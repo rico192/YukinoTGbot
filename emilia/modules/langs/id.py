@@ -4,8 +4,8 @@ __lang__ = "🇮🇩 Indonesia"
 id = {
 # main stuff
 	"start_text": """
-Hai {}, nama saya {}! Saya seorang manajer grup yang dikelola oleh [master saya ini](tg://user?id={}).
-Untuk mendapatkan info status dan update bot ini, anda dapat bergabung dengan channel kami [Trollol Post](https://t.me/kangothersc)
+Hai {}, nama saya {}! Saya seorang manajer grup yang dikelola oleh [Lico](tg://user?id={}).
+Untuk mendapatkan info status dan update bot ini, anda dapat bergabung dengan channel kami [Trollol Post](https://t.me/kangothersc ) 
 
 Anda dapat menemukan daftar perintah yang tersedia dengan /help.
 
@@ -31,10 +31,10 @@ All commands can either be used with / or !.
 Dan berikut ini:
 """,
 	"donate_text": """Hai, senang mendengar Anda ingin menyumbang!
-Ada dua orang yang bisa kamu donasikan, pertama adalah [Ayra Hikari] (tg: // user? Id = 388576209) \
-atau Orang Kampret yg telah membangun saya [Rico] (https://t.me/grecm)
+Ada dua orang yang bisa kamu donasikan, pertama adalah [Ayra Hikari](tg: // user? Id = 388576209) \
+atau Orang Kampret yg telah membangun saya [Rico](https://t.me/grecm)
 
-Klik [disini] (ayrahikari.github.io/donations.html) jika Anda ingin mendonasikan ke Ayra Hikari. \
+Klik [disini](ayrahikari.github.io/donations.html) jika Anda ingin mendonasikan ke Ayra Hikari. \
 Atau PM saya di @grecm jika Anda ingin mendonasikan sesuatu ke saya.
 
 Anda dapat menyumbang kami semampu anda, dan ini bukan kewajiban 😁""",
