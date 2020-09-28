@@ -38,7 +38,7 @@ To get this bot status info and update, you can join our channel [Trollol Post](
 
 You can find the list of available commands with /help.
 
-You can buy me a coffe with cklik /donate
+You can buy me a coffe with click /donate
 """,
 	"help_text": """
 Hey there! My name is *Yukinoshita Yukino*.
@@ -79,7 +79,6 @@ You can donate us as far as possible, and this is not an obligation 😁""",
 	"Hai! Ada beberapa pengaturan untuk {} - lanjutkan dan pilih apa yang Anda minati.": "Hi there! There are quite a few settings for {} - go ahead and pick what you're interested in.",
 	"Klik di sini untuk mendapatkan pengaturan obrolan ini, serta milik Anda.": "Click here to get this chat's settings, as well as yours.",
 	"Klik di sini untuk memeriksa pengaturan Anda.": "Click here to check your settings.",
-	"Anda juga dapat menyumbang kepada orang yang saat ini menjalankan saya [disini]({})": "You can also donate to the person currently running me [here]({})",
 	"Saya sudah PM Anda tentang donasi untuk pencipta saya!": "I've PM'ed you about donating to my creator!",
 	"Hubungi saya di PM dulu untuk mendapatkan informasi donasi.": "Contact me in PM first to get donation information.",
 	"Ini bantuan untuk modul *{}*:\n": "Here is the help for the *{}* module:\n",
@@ -207,11 +206,11 @@ Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.
 							   "if it still does not work, report it to the bot maker for "
 							   "make me better! Thanks! 🙂",
 	"Kesalahan terjadi saat memulihkan data Anda. Prosesnya mungkin tidak lengkap. Jika "
-						   "Anda mengalami masalah dengan ini, pesan @AyraHikari dengan file cadangan Anda, jadi "
+						   "Anda mengalami masalah dengan ini, pesan @grecm dengan file cadangan Anda, jadi "
 						   "masalah bisa di-debug. Pemilik saya akan dengan senang hati membantu, dan setiap bug "
 						   "dilaporkan membuat saya lebih baik! Terima kasih! 🙂": 
 	"An exception occured while restoring your data. The process may not be complete. If "
-						   "you have a problem with this, contact @AyraHikari with your backup file, so "
+						   "you have a problem with this, contact @grecm with your backup file, so "
 						   "issue can be debugged. My owner will be happy to help, and every bug "
 						   "reported makes me better! Thanks! 🙂",
 	"Cadangan sepenuhnya dikembalikan pada *{}*. Selamat datang kembali! 😀": "Backup fully imported in *{}*. Welcome back! 😀",
